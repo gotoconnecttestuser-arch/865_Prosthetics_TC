@@ -2,7 +2,13 @@ SMS Terms and Conditions for 865 Prosthetics, LLC
 
 Effective Date: October 29, 2026
 
-By opting in to receive SMS messages from 865 Prosthetics, LLC (“865 Prosthetics,” “we,” “our,” or “us”), you agree to the following SMS Terms and Conditions.
+By opting in to receive SMS messages from 865 Prosthetics, LLC, you agree to receive customer care messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates: Message and data rates may apply.
+Opt out: Reply STOP to cancel at any time.
+Help: Reply HELP for assistance.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/865_Prosthetics_PP
 
 Program Description
 
